@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diabetes Prediction App</title>
 </head>
 <body>
     <h1>Diabetes Prediction App 🍎</h1>
@@ -38,8 +37,13 @@
         <li>Enter health metrics (Pregnancies, Glucose, Blood Pressure, etc.) in the form.</li>
         <li>Click "Predict Diabetes" to get the result.</li>
     </ul>
-    ![image](https://github.com/user-attachments/assets/82d3da52-37e3-4318-a079-3babbb7b8de1)
-
 </body>
 </html>
+
+
+![image](https://github.com/user-attachments/assets/e8204926-adef-4c9e-81fb-a5a66c681203)
+
+![image](https://github.com/user-attachments/assets/05a4cc94-dc49-4846-8874-a17edf62bcf3)
+
+
 
